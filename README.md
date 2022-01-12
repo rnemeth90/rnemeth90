@@ -39,5 +39,5 @@ programming-languages = [
 
 You can find my blog at http://geekyryan.com
 
-I'm always interested in meeting new people, so feel free to reach out to me using the links below.
+I'm always interested in meeting new people, so feel free to reach out.
 
