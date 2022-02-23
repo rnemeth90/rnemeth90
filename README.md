@@ -1,43 +1,14 @@
+### A little about me...
 
+- **Technical focus** - Kubernetes :whale: DevOps :zap: microservices Linux :penguin: Azure :cloud: DotNet :muscle: PowerShell :shell:
+- **What I do for work** - I work at Aprimo as a Senior DevOps Engineer. I focus on helping devs get from A to B with our software releases.
+- **Non-technical** - Guitar :guitar: Family :family: Video Games :video_games:
 
-<h3>Why, hello there.</h3>
+Blog posts that might be of interest from [geekyryan.com](https://geekyryan.com)...
 
-Here's my `Manifest.toml`:
+- [Azure Kubernetes sFTP Solution](https://geekyryan.com/?p=336)
+- [Deploy Azure VMs Using Azure Devops CI/CD Pipeline](https://geekyryan.com/?p=43)
+- [Kubernetes Pod Eviction](https://geekyryan.com/?p=423)
+- [Accessing Secrets Securely in Azure DevOps Pipelines](https://geekyryan.com/?p=431)
 
-```toml
-
-[personal]
-name = 'Ryan Nemeth'
-Location = 'Chicago Area'
-email = 'ryannemeth "at" live.com'
-
-[professional]
-currently-employed = true
-title = 'Senior Devops Engineer'
-employer = 'Aprimo'
-
-[bio]
-categories = [
-  'Devops',
-  'SRE'
-]
-interests = [
-  'microservices',
-  'kubernetes',
-  'linux',
-  'open-source',
-  'automation'
-]
-programming-languages = [
-  'c#/dotnet',
-  'golang',
-  'python',
-  'bash'
-]
-
-```
-
-You can find my blog at http://geekyryan.com
-
-I'm always interested in meeting new people, so feel free to reach out.
-
+and many others at [geekyryan.com](https://geekyryan.com)
