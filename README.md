@@ -2,7 +2,7 @@
 
 - **Technical focus** - Kubernetes :whale: DevOps :zap: microservices Linux :penguin: Azure :cloud: DotNet :muscle: PowerShell :shell:
 - **What I do for work** - I work at Aprimo as a Senior DevOps Engineer. I focus on helping devs get from A to B with our software releases.
-- **Non-technical** - Guitar :guitar: Family :family: Video Games :video_games:
+- **Non-technical** - Family :family: Guitar :guitar: Video Games :video_games:
 
 Blog posts that might be of interest from [geekyryan.com](https://geekyryan.com)...
 
