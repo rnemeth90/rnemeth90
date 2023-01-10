@@ -6,9 +6,9 @@
 
 Blog posts that might be of interest from [geekyryan.com](https://geekyryan.com)...
 
-- [Azure Kubernetes sFTP Solution](https://geekyryan.com/?p=336)
-- [Deploy Azure VMs Using Azure Devops CI/CD Pipeline](https://geekyryan.com/?p=43)
-- [Kubernetes Pod Eviction](https://geekyryan.com/?p=423)
-- [Accessing Secrets Securely in Azure DevOps Pipelines](https://geekyryan.com/?p=431)
+- [Handling Graceful Shutdown in a .NET App Hosted in Kubernetes](https://rnemeth90.github.io/posts/2022-12-28-graceful-shutdown-in-kubernetes-dotnet-pod/)
+- [Backup Synology NAS to Azure Storage](https://rnemeth90.github.io/posts/2022-12-25-synology-backup-to-cloud/)
+- [Building a Golang App with Github Actions](https://rnemeth90.github.io/posts/2022-12-24-gh-actions-copy/)
+- [Chaining YAML Pipelines in Azure Devops](https://rnemeth90.github.io/posts/2022-11-03-chaining-yaml-pipelines-in-azure-devops-copy/)
 
-and many others at [geekyryan.com](https://geekyryan.com)
+and many others at [geekyryan.com](https://rnemeth90.github.io)
