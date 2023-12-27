@@ -11,4 +11,4 @@ Blog posts that might be of interest from [rnemeth90.github.io](https://rnemeth9
 - [Building a Golang App with Github Actions](https://rnemeth90.github.io/posts/2022-12-24-gh-actions-copy/)
 - [Chaining YAML Pipelines in Azure Devops](https://rnemeth90.github.io/posts/2022-11-03-chaining-yaml-pipelines-in-azure-devops-copy/)
 
-and many others at [geekyryan.com](https://rnemeth90.github.io)
+and many others [here](https://rnemeth90.github.io)
